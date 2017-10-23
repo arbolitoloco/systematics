@@ -3,3 +3,13 @@
 
 @import "{{ site.theme }}";
 
+// Headers
+$header-heading-color: #fff !default;
+$header-bg-color: #4c4c4c !default;
+$header-bg-color-secondary: #131313 !default;
+
+// Text
+$section-headings-color: #131313 !default;
+$body-text-color: #4c4c4c !default;
+$body-link-color: #131313 !default;
+$blockquote-text-color: #4c4c4c !default;
